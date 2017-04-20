@@ -1,0 +1,41 @@
+2017-04-20 15:53:07 [127.0.0.1][-][-][info][payment] Request params: {"user_id":null,"amount":null,"md5":null,"strategy":"app\\components\\Test2Strategy"}
+2017-04-20 15:53:07 [127.0.0.1][-][-][info][payment] Response: ERROR
+2017-04-20 15:53:07 [127.0.0.1][-][-][info][payment] Errors: {"user_id":["\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0437\u0430\u043f\u043e\u043b\u043d\u0438\u0442\u044c \u00abUser Id\u00bb."],"amount":["\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0437\u0430\u043f\u043e\u043b\u043d\u0438\u0442\u044c \u00abAmount\u00bb."],"md5":["\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0437\u0430\u043f\u043e\u043b\u043d\u0438\u0442\u044c \u00abMd5\u00bb."]}
+2017-04-20 15:54:11 [127.0.0.1][-][-][info][payment] Request params: {"user_id":null,"amount":null,"md5":null,"strategy":"app\\components\\Test2Strategy"}
+2017-04-20 15:54:11 [127.0.0.1][-][-][info][payment] Response: ERROR
+2017-04-20 15:54:11 [127.0.0.1][-][-][info][payment] Errors: {"user_id":["\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0437\u0430\u043f\u043e\u043b\u043d\u0438\u0442\u044c \u00abUser Id\u00bb."],"amount":["\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0437\u0430\u043f\u043e\u043b\u043d\u0438\u0442\u044c \u00abAmount\u00bb."],"md5":["\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0437\u0430\u043f\u043e\u043b\u043d\u0438\u0442\u044c \u00abMd5\u00bb."]}
+2017-04-20 15:54:14 [127.0.0.1][-][-][info][payment] Request params: {"user_id":"1","amount":"330","md5":"d982393876bb09709c205f9a8cf9f3d8","strategy":"app\\components\\Test1Strategy"}
+2017-04-20 15:54:14 [127.0.0.1][-][-][info][payment] Response: <answer>1</answer>
+2017-04-20 15:54:14 [127.0.0.1][-][-][info][payment] Is update: 1
+2017-04-20 15:54:14 [127.0.0.1][-][-][info][payment] Is transact: 1
+2017-04-20 15:59:00 [127.0.0.1][-][-][info][payment] Request params: {"user_id":null,"amount":null,"md5":null,"strategy":"app\\components\\Test2Strategy"}
+2017-04-20 15:59:00 [127.0.0.1][-][-][info][payment] Response: ERROR
+2017-04-20 15:59:00 [127.0.0.1][-][-][info][payment] Errors: {"user_id":["\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0437\u0430\u043f\u043e\u043b\u043d\u0438\u0442\u044c \u00abUser Id\u00bb."],"amount":["\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0437\u0430\u043f\u043e\u043b\u043d\u0438\u0442\u044c \u00abAmount\u00bb."],"md5":["\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0437\u0430\u043f\u043e\u043b\u043d\u0438\u0442\u044c \u00abMd5\u00bb."]}
+2017-04-20 15:59:57 [127.0.0.1][-][-][info][payment] Request params: {"user_id":null,"amount":null,"md5":null,"strategy":"app\\components\\Test2Strategy"}
+2017-04-20 15:59:57 [127.0.0.1][-][-][info][payment] Response: ERROR
+2017-04-20 15:59:57 [127.0.0.1][-][-][info][payment] Errors: {"user_id":["\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0437\u0430\u043f\u043e\u043b\u043d\u0438\u0442\u044c \u00abUser Id\u00bb."],"amount":["\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0437\u0430\u043f\u043e\u043b\u043d\u0438\u0442\u044c \u00abAmount\u00bb."],"md5":["\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0437\u0430\u043f\u043e\u043b\u043d\u0438\u0442\u044c \u00abMd5\u00bb."]}
+2017-04-20 16:01:16 [127.0.0.1][-][-][info][payment] Request params: {"user_id":null,"amount":null,"md5":null,"strategy":"app\\components\\Test2Strategy"}
+2017-04-20 16:01:16 [127.0.0.1][-][-][info][payment] Response: ERROR
+2017-04-20 16:01:16 [127.0.0.1][-][-][info][payment] Errors: {"user_id":["\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0437\u0430\u043f\u043e\u043b\u043d\u0438\u0442\u044c \u00abUser Id\u00bb."],"amount":["\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0437\u0430\u043f\u043e\u043b\u043d\u0438\u0442\u044c \u00abAmount\u00bb."],"md5":["\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0437\u0430\u043f\u043e\u043b\u043d\u0438\u0442\u044c \u00abMd5\u00bb."]}
+2017-04-20 16:01:49 [127.0.0.1][-][-][info][payment] Request params: {"user_id":null,"amount":null,"md5":null,"strategy":"app\\components\\Test2Strategy"}
+2017-04-20 16:01:49 [127.0.0.1][-][-][info][payment] Response: ERROR
+2017-04-20 16:01:49 [127.0.0.1][-][-][info][payment] Errors: {"user_id":["\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0437\u0430\u043f\u043e\u043b\u043d\u0438\u0442\u044c \u00abUser Id\u00bb."],"amount":["\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0437\u0430\u043f\u043e\u043b\u043d\u0438\u0442\u044c \u00abAmount\u00bb."],"md5":["\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0437\u0430\u043f\u043e\u043b\u043d\u0438\u0442\u044c \u00abMd5\u00bb."]}
+2017-04-20 16:04:29 [127.0.0.1][-][-][info][payment] Request params: {"user_id":null,"amount":null,"md5":null,"strategy":"app\\components\\Test2Strategy"}
+2017-04-20 16:04:29 [127.0.0.1][-][-][info][payment] Response: ERROR
+2017-04-20 16:04:29 [127.0.0.1][-][-][info][payment] Errors: {"user_id":["\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0437\u0430\u043f\u043e\u043b\u043d\u0438\u0442\u044c \u00abUser Id\u00bb."],"amount":["\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0437\u0430\u043f\u043e\u043b\u043d\u0438\u0442\u044c \u00abAmount\u00bb."],"md5":["\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0437\u0430\u043f\u043e\u043b\u043d\u0438\u0442\u044c \u00abMd5\u00bb."]}
+2017-04-20 16:05:01 [127.0.0.1][-][-][info][payment] Request params: {"user_id":null,"amount":null,"md5":null,"strategy":"app\\components\\Test2Strategy"}
+2017-04-20 16:05:48 [127.0.0.1][-][-][info][payment] Request params: {"user_id":null,"amount":null,"md5":null,"strategy":"app\\components\\Test2Strategy"}
+2017-04-20 16:05:48 [127.0.0.1][-][-][info][payment] Response: ERROR
+2017-04-20 16:05:48 [127.0.0.1][-][-][info][payment] Errors: {"user_id":["\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0437\u0430\u043f\u043e\u043b\u043d\u0438\u0442\u044c \u00abUser Id\u00bb."],"amount":["\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0437\u0430\u043f\u043e\u043b\u043d\u0438\u0442\u044c \u00abAmount\u00bb."],"md5":["\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0437\u0430\u043f\u043e\u043b\u043d\u0438\u0442\u044c \u00abMd5\u00bb."]}
+2017-04-20 16:10:05 [127.0.0.1][-][-][info][payment] Request params: {"user_id":"1","amount":"330","md5":"9978b9b69c77042a22ca3978268a665f","strategy":"app\\components\\Test2Strategy"}
+2017-04-20 16:10:18 [127.0.0.1][-][-][info][payment] Request params: {"user_id":"1","amount":"330","md5":"9978b9b69c77042a22ca3978268a665f","strategy":"app\\components\\Test2Strategy"}
+2017-04-20 16:10:18 [127.0.0.1][-][-][info][payment] Response: ERROR
+2017-04-20 16:10:18 [127.0.0.1][-][-][info][payment] Errors: {"md5":["Invalid MD5."]}
+2017-04-20 16:10:36 [127.0.0.1][-][-][info][payment] Request params: {"user_id":"1","amount":"330","md5":"9978b9b69c77042a22ca3978268a665f","strategy":"app\\components\\Test2Strategy"}
+2017-04-20 16:10:47 [127.0.0.1][-][-][info][payment] Request params: {"user_id":"1","amount":"330","md5":"9978b9b69c77042a22ca3978268a665f","strategy":"app\\components\\Test2Strategy"}
+2017-04-20 16:11:20 [127.0.0.1][-][-][info][payment] Request params: {"user_id":"1","amount":"330","md5":"9978b9b69c77042a22ca3978268a665f","strategy":"app\\components\\Test2Strategy"}
+2017-04-20 16:11:50 [127.0.0.1][-][-][info][payment] Request params: {"user_id":"1","amount":"330","md5":"3072c124c88d3ba609d25dfc3b708de3","strategy":"app\\components\\Test2Strategy"}
+2017-04-20 16:11:58 [127.0.0.1][-][-][info][payment] Request params: {"user_id":"1","amount":"330","md5":"3072c124c88d3ba609d25dfc3b708de3","strategy":"app\\components\\Test2Strategy"}
+2017-04-20 16:11:58 [127.0.0.1][-][-][info][payment] Response: OK
+2017-04-20 16:11:58 [127.0.0.1][-][-][info][payment] Is update: 1
+2017-04-20 16:11:58 [127.0.0.1][-][-][info][payment] Is transact: 1
