@@ -7,7 +7,7 @@
 2) payment/test2
 
 
-Для поля user.updated_at: DATETIME DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+Для поля user.updated_at в структуре добавлено: DATETIME DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
 
 
 controllers/PaymentController
