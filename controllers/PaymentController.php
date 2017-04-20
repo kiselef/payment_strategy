@@ -48,6 +48,7 @@ class PaymentController extends Controller
     public function actionTest2()
     {
         \Yii::$app->getResponse()->format = Response::FORMAT_RAW;
+        
         $strategy = new Test2Strategy();
         $strategy->user_id = \Yii::$app->getRequest()->post('x');
         $strategy->amount = \Yii::$app->getRequest()->post('y');
