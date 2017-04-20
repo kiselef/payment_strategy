@@ -31,10 +31,6 @@
 2017-04-20 16:10:18 [127.0.0.1][-][-][info][payment] Request params: {"user_id":"1","amount":"330","md5":"9978b9b69c77042a22ca3978268a665f","strategy":"app\\components\\Test2Strategy"}
 2017-04-20 16:10:18 [127.0.0.1][-][-][info][payment] Response: ERROR
 2017-04-20 16:10:18 [127.0.0.1][-][-][info][payment] Errors: {"md5":["Invalid MD5."]}
-2017-04-20 16:10:36 [127.0.0.1][-][-][info][payment] Request params: {"user_id":"1","amount":"330","md5":"9978b9b69c77042a22ca3978268a665f","strategy":"app\\components\\Test2Strategy"}
-2017-04-20 16:10:47 [127.0.0.1][-][-][info][payment] Request params: {"user_id":"1","amount":"330","md5":"9978b9b69c77042a22ca3978268a665f","strategy":"app\\components\\Test2Strategy"}
-2017-04-20 16:11:20 [127.0.0.1][-][-][info][payment] Request params: {"user_id":"1","amount":"330","md5":"9978b9b69c77042a22ca3978268a665f","strategy":"app\\components\\Test2Strategy"}
-2017-04-20 16:11:50 [127.0.0.1][-][-][info][payment] Request params: {"user_id":"1","amount":"330","md5":"3072c124c88d3ba609d25dfc3b708de3","strategy":"app\\components\\Test2Strategy"}
 2017-04-20 16:11:58 [127.0.0.1][-][-][info][payment] Request params: {"user_id":"1","amount":"330","md5":"3072c124c88d3ba609d25dfc3b708de3","strategy":"app\\components\\Test2Strategy"}
 2017-04-20 16:11:58 [127.0.0.1][-][-][info][payment] Response: OK
 2017-04-20 16:11:58 [127.0.0.1][-][-][info][payment] Is update: 1
